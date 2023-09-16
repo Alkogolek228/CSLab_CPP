@@ -1,0 +1,9 @@
+fsgcc
+5 5 5 5 5
+yes
+oleg
+1 2 3 4 5
+yes
+loh
+1 2 3 4 5
+yes

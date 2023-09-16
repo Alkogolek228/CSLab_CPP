@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>TaskInfo</class>
+ <widget class="QDialog" name="TaskInfo">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>631</width>
+    <height>492</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>30</y>
+     <width>651</width>
+     <height>491</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Написать программу формирования ведомости об успеваемости 
+студентов. Каждый пункт этой ведомости должен содержать: наименование 
+специальности, номер группы, ФИО студента, оценки, полученные им за 
+последнюю сессию, средний балл (вычисляется в программе). Требуется: 
+• отсортировать весь список студентов в порядке убывания среднего балла; 
+• отсортировать студентов в группе в порядке убывания среднего балла; 
+• вывести список студентов, не получивших в сессию 
+неудовлетворительных оценок; 
+• осуществлять поиск студента по ФИО.</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

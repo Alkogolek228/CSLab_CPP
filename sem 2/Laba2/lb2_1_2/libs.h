@@ -1,0 +1,11 @@
+#include <string>
+#include <iostream>
+#include <QFileDialog>
+#include <fstream>
+#include <algorithm>
+#include <QListWidget>
+#include <QTableWidget>
+#include <QHeaderView>
+#include <QMessageBox>
+#include <QString>
+#include <QTextStream>
